@@ -1,0 +1,18 @@
+form{
+    margin: 300px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+body{
+    background-image: url("images/background.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+input[type=submit]{
+    width: 100%;
+    color: white;
+    background-color: lightskyblue;
+    border-radius: 10px;
+}
